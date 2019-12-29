@@ -10,5 +10,6 @@ Ph
 Best is Linear Regression.(Since adjusted R square is more and residual standard error is less)
 
 
+Note :- water is suitable for drinking if there is optimal ph and DO level is good. Also nitrate level must be less. 
 
 kindly install required packages else you may get error.
