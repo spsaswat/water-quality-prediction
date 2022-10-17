@@ -1,4 +1,4 @@
-# water-quality-prediction-using-R
+# Water quality prediction using R and Python
 
 ### DO       
 For predicting DO using BOD and Temperature best is LASSO(6.558347)
